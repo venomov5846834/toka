@@ -141,7 +141,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX             
 -----
 ### ✅ QUIERE TENER EL BOT 24/7 ACTIVO ACTIVAR EL BOXMINEHOST  
-[![blog](https://img.shields.io/badge/BoxMine-toka-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![blog](https://img.shields.io/badge/BoxMine-TheLoliBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/wWyBHtKzx9Q?si=ihODwzs0pnVhzs5s)
 
 <a href="https://boxmineworld.com"><img src="https://i.imgur.com/allAyd4.png" height="125px"></a>
@@ -165,8 +165,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ### ⚡ ACTIVA EL REPLIT
 [![blog](https://img.shields.io/badge/Lolibot-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtu.be/SMjCcfuyWQE)
-<a target="_blank" href="https://replit.com/github.com/venomov5846834/Toka"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
-<a href="https://replit.com/github.com/venomov5846834/Toka"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+<a target="_blank" href="https://replit.com/github/elrebelde21/The-LoliBot-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a>
+<a href="https://replit.com/github/elrebelde21/The-LoliBot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
 ------------------
 - [x] Resultado <details><summary>Importar Repositorio - The-LoliBot-MD</summary><img src="https://i.imgur.com/GQyRnMf.jpg"></details>
 ------------------
